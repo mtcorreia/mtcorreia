@@ -43,7 +43,9 @@
 
 <div> 
 <a href="https://www.instagram.com/theeustc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a> 
+</a>
+<a href="https://www.linkedin.com/in/matheus-t-correia-25b52323b/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </div>
  
 <a href="#">
