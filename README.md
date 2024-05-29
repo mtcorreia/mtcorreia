@@ -4,7 +4,7 @@
 
 ## HELLO THERE, I'M MATHEUS CORREIA! 🤓👍
 
-<p align="center"><b>“O importante é não parar de questionar; a curiosidade tem sua própria razão de existir.”</b> - Albert Einstein.<br><br><b>Desenvolvedor FullStack em Formação</b>, apaixonado pela solução de problemas lógicos e buscas por resolver bugs nas horas vagas! Um amante da programação Backend e por gerência em Banco de Dados.</p>
+<p align="center"><b>“O importante é não parar de questionar; a curiosidade tem sua própria razão de existir.”</b> - Albert Einstein.</p><br><p align="center"><b>Desenvolvedor Full Stack</b> formado pela faculdade SENAC/RJ.<br> Atualmente buscando especialização na área de Segurança da Informação, estudando para certificações e participando de cursos para aperfeiçoar o aprendizado!</p>
 
 <div  align="center" style="margin-bottom:100px">
  <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -27,7 +27,7 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 #### Frameworks e Bibliotecas:
 
